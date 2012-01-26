@@ -18,7 +18,7 @@ execute "pkgin-force-update" do
 	action :nothing
 end
 
-### example instal nginx
+### example install nginx and start under smf.
 ### To install or remove, must set full package name!
 ###
 # smartos_pkgin "nginx-1.0.4" do
